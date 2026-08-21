@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 35,
+    "width": 990,
+    "height": 1321,
+    "isRotated": true,
+    "originalWidth": 1061,
+    "originalHeight": 1321
+  },
+  "imagePath": "image-targets/penguin (1)_luminance.png",
+  "metadata": null,
+  "name": "penguin (1)",
+  "resources": {
+    "originalImage": "penguin (1)_original.png",
+    "croppedImage": "penguin (1)_cropped.png",
+    "thumbnailImage": "penguin (1)_thumbnail.png",
+    "luminanceImage": "penguin (1)_luminance.png"
+  },
+  "created": 1787302813053,
+  "updated": 1787302813053
+}
