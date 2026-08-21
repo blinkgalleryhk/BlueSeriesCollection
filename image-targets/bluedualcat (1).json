@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 55,
+    "left": 0,
+    "width": 960,
+    "height": 1280,
+    "isRotated": true,
+    "originalWidth": 960,
+    "originalHeight": 1391
+  },
+  "imagePath": "image-targets/bluedualcat (1)_luminance.png",
+  "metadata": null,
+  "name": "bluedualcat (1)",
+  "resources": {
+    "originalImage": "bluedualcat (1)_original.png",
+    "croppedImage": "bluedualcat (1)_cropped.png",
+    "thumbnailImage": "bluedualcat (1)_thumbnail.png",
+    "luminanceImage": "bluedualcat (1)_luminance.png"
+  },
+  "created": 1787298057298,
+  "updated": 1787298057298
+}

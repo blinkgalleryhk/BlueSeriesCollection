@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 141,
+    "left": 0,
+    "width": 844,
+    "height": 1125,
+    "isRotated": true,
+    "originalWidth": 844,
+    "originalHeight": 1408
+  },
+  "imagePath": "image-targets/bluecatplay (1)_luminance.png",
+  "metadata": null,
+  "name": "bluecatplay (1)",
+  "resources": {
+    "originalImage": "bluecatplay (1)_original.png",
+    "croppedImage": "bluecatplay (1)_cropped.png",
+    "thumbnailImage": "bluecatplay (1)_thumbnail.png",
+    "luminanceImage": "bluecatplay (1)_luminance.png"
+  },
+  "created": 1787285745653,
+  "updated": 1787285745653
+}
